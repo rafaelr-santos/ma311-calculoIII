@@ -1,6 +1,7 @@
 # Solução de EDO's de Primeira Ordem pelo Método do Fator Integrante
 
 Se a EDO tem a forma
+
 $$
 y' + f(t)y = g(t)
 $$
@@ -9,6 +10,7 @@ Então pode ser resolvida pelo método dos fator integrante. Esse método consis
 
 ### Demonstração
 Seja $f$ e $g$ funcões dadas, e $\mu$ uma função conveniente. Então
+
 $$
 y' + f(t)y = g(t)
 \Rightarrow
@@ -16,11 +18,13 @@ y' + f(t)y = g(t)
 $$
 
 Para que $\mu(t)y' + \mu(t)f(t)y$ seja a deriviada de um produto, é necessário que
+
 $$
 \mu'(t) = \mu(t)f(t)
 $$
 
 Supondo que $\mu(t)> 0$ e interando dos dois lados
+
 $$
 \frac{\mu'(t)}{\mu(t)} = f(t)
 \Rightarrow
