@@ -32,6 +32,6 @@ $$
 \Rightarrow
 \ln(|\mu(t)|) = \int f(t)dt
 \Rightarrow
-\mu(t) = exp\left\{\int f(t)dt\right\}
+\mu(t) = \exp\left(\int f(t)dt\right)
 \blacksquare
 $$
